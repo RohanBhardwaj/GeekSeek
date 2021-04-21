@@ -3,14 +3,20 @@ A platform for developers to connect. They can create their portofolio by adding
 
 Users can also create small posts and like/dislike and comment on other posts.
 
-#Quick Start 🚀
+## Quick Start 🚀
 
-#Install server dependencies
+### Install server dependencies
+```sh
 npm install
+```
 
-#Install client dependencies
+### Install client dependencies
+```sh
 cd client
 npm install
+```
 
-#Run both Express & React from root
+### Run both Express & React from root
+```sh
 npm run dev
+```
